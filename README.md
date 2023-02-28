@@ -18,18 +18,21 @@ TODO
 
 ## Useful Links
 - ZeroTier Download
-  - https://www.zerotier.com/download/
+  - https://discuss.zerotier.com/t/guide-zerotier-gui-on-linux-mint-ubuntu/9447
+  - Use "sudo apt-get installpkg-config" if "make" fails
 - Mosquitto Download
   - https://mosquitto.org/download/
 - Node-Red Download
   - https://nodered.org/
+- Download PostgreSQL Download
+  - https://www.geeksforgeeks.org/install-postgresql-on-linux/
 - Adding users and setting user permissions
   - https://nodered.org/docs/user-guide/runtime/securing-node-red
 
 ## System Information
 ### Computer Software
 The following programs are installed on the ME Clubs main laptop with details about their uses and implementations:
-- Ubuntu 20.04
+- Ubuntu 22.04
   - Linux Distribution
 - Git
   - Just for npm
@@ -77,3 +80,5 @@ The ME Club IoT Server currently recieves data from an _________ Raspberry Pi __
   - https://www.youtube.com/watch?v=LXA-Ge3-ewo
 - Installing Linux on Chrome
   - https://dbtechreviews.com/2018/09/how-to-install-ubuntu-on-chromebook-and-remove-chromeos/
+- Security Information
+  - https://nodered.org/docs/user-guide/runtime/securing-node-red
