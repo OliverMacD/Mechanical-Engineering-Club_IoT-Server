@@ -4,7 +4,12 @@ This repository handles all information regarding the IoT server for the Boise S
 
 ## Main Use
 ### How to Start & Run Main Computer and IoT Dashboard
-TODO
+    1. Turn on Computer
+    2. When the red exclimation mark appears
+        2.1. Press Ctrl+L to reach the boot menu
+        2.2. Hit Escape
+        2.3. Select MMC for the boot Option
+    3. TODO
 ### How to Connect Devices to IoT Server and Publish to MQTT Broker
 TODO
 ### How to Connect other Devices to IoT Dashboard
