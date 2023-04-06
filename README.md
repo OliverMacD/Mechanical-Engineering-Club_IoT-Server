@@ -82,3 +82,6 @@ The ME Club IoT Server currently recieves data from an _________ Raspberry Pi __
   - https://dbtechreviews.com/2018/09/how-to-install-ubuntu-on-chromebook-and-remove-chromeos/
 - Security Information
   - https://nodered.org/docs/user-guide/runtime/securing-node-red
+- If Node-Red Won't Connect over ZeroTier
+  - https://docs.zerotier.com/zerotier/troubleshooting/
+  - https://vitux.com/how-to-block-allow-ping-using-iptables-in-ubuntu/#:~:text=If%20any%20of%20the%20rules%20is%20blocking%20ping,with%20the%20following%20command%3A%20%24%20sudo%20iptables%20-F
