@@ -85,3 +85,10 @@ The ME Club IoT Server currently recieves data from an _________ Raspberry Pi __
 - If Node-Red Won't Connect over ZeroTier
   - https://docs.zerotier.com/zerotier/troubleshooting/
   - https://vitux.com/how-to-block-allow-ping-using-iptables-in-ubuntu/#:~:text=If%20any%20of%20the%20rules%20is%20blocking%20ping,with%20the%20following%20command%3A%20%24%20sudo%20iptables%20-F
+- Node Red Service on Linux PC
+  - Service File Contents
+    - https://discourse.nodered.org/t/unit-file-nodered-service-does-not-exist/30271/4
+  - Making Service File
+    - https://www.howtogeek.com/687970/how-to-run-a-linux-program-at-startup-with-systemd/
+  - Starting Service File
+    - https://nodered.org/docs/getting-started/raspberrypi
