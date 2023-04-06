@@ -21,7 +21,7 @@ TODO
   - https://discuss.zerotier.com/t/guide-zerotier-gui-on-linux-mint-ubuntu/9447
   - Use "sudo apt-get installpkg-config" if "make" fails
 - Mosquitto Download
-  - https://mosquitto.org/download/
+  - [https://mosquitto.org/download/](https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/)
 - Node-Red Download
   - https://nodered.org/
 - Download PostgreSQL Download
@@ -72,12 +72,9 @@ The ME Club IoT Server currently recieves data from an _________ Raspberry Pi __
 - Unknown (Final Device Yet To Be Chosen)
 
 ## Other Useful Links
-- Connecting MQTT to Node-Red
-  - https://cookbook.nodered.org/mqtt/connect-to-broker
 - Node-Red Dashboard Tutorial
-  - https://www.youtube.com/watch?v=X8ustpkAJ-U
-- Node-Red and Mosquitto Set Up Tutorial
-  - https://www.youtube.com/watch?v=LXA-Ge3-ewo
+  - https://randomnerdtutorials.com/getting-started-node-red-dashboard/
+  - [https://www.youtube.com/watch?v=X8ustpkAJ-U](https://flows.nodered.org/node/node-red-dashboard)
 - Installing Linux on Chrome
   - https://dbtechreviews.com/2018/09/how-to-install-ubuntu-on-chromebook-and-remove-chromeos/
 - Security Information
@@ -92,3 +89,8 @@ The ME Club IoT Server currently recieves data from an _________ Raspberry Pi __
     - https://www.howtogeek.com/687970/how-to-run-a-linux-program-at-startup-with-systemd/
   - Starting Service File
     - https://nodered.org/docs/getting-started/raspberrypi
+- MQTT SetUp & Testing
+    -  https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/
+    -  https://randomnerdtutorials.com/testing-mosquitto-broker-and-client-on-raspbbery-pi/
+    -  https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/
+    -  https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/
