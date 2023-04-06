@@ -16,7 +16,7 @@ TODO
 ### How to Connect other Devices to IoT Dashboard
 TODO
 
-## Useful Links
+## Download Links
 - ZeroTier Download
   - https://discuss.zerotier.com/t/guide-zerotier-gui-on-linux-mint-ubuntu/9447
   - Use "sudo apt-get installpkg-config" if "make" fails
@@ -94,3 +94,6 @@ The ME Club IoT Server currently recieves data from an _________ Raspberry Pi __
     -  https://randomnerdtutorials.com/testing-mosquitto-broker-and-client-on-raspbbery-pi/
     -  https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/
     -  https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/
+- Using SQL in Node Red to Data Log
+    - https://www.youtube.com/watch?v=dPFkkQTNPso
+    - https://flows.nodered.org/node/node-red-contrib-postgresql
