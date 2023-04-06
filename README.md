@@ -25,7 +25,9 @@ TODO
 - Node-Red Download
   - https://nodered.org/
 - Download PostgreSQL Download
-  - https://www.geeksforgeeks.org/install-postgresql-on-linux/
+  - https://www.postgresql.org/download/linux/ubuntu/
+- Download pgAdmin4
+  - https://www.pgadmin.org/download/pgadmin-4-apt/
 - Adding users and setting user permissions
   - https://nodered.org/docs/user-guide/runtime/securing-node-red
 
@@ -97,3 +99,5 @@ The ME Club IoT Server currently recieves data from an _________ Raspberry Pi __
 - Using SQL in Node Red to Data Log
     - https://www.youtube.com/watch?v=dPFkkQTNPso
     - https://flows.nodered.org/node/node-red-contrib-postgresql
+- SQL Setup
+    - https://www.youtube.com/watch?v=-LwI4HMR_Eg
