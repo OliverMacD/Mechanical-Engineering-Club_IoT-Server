@@ -101,3 +101,5 @@ The ME Club IoT Server currently recieves data from an _________ Raspberry Pi __
     - https://flows.nodered.org/node/node-red-contrib-postgresql
 - SQL Setup
     - https://www.youtube.com/watch?v=-LwI4HMR_Eg
+- Make It An App
+    - https://opensource.com/article/21/11/linux-apps-nativefier
